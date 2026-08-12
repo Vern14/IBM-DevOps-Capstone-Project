@@ -1,0 +1,4 @@
+PipelineRun started
+[task-run-1] Running...
+[task-run-1] Completed successfully.
+PipelineRun completed successfully.
