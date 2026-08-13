@@ -1,6 +1,6 @@
 # IBM DevOps Capstone Project
 
-[![Build Status](https://github.com/dennislamcv1/IBMDEVOPS/actions/workflows/ci-build.yml/badge.svg)](https://github.com/dennislamcv1/IBMDEVOPS/actions/workflows/ci-build.yml)
+[![Build Status](https://github.com/Vern14/IBM-DevOps-Capstone-Project/actions/workflows/ci-build.yml/badge.svg)](https://github.com/Vern14/IBM-DevOps-Capstone-Project/actions/workflows/ci-build.yml)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
